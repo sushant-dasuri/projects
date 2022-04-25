@@ -1,6 +1,6 @@
 # projects
 Tailwind Learning
-# Creating a Main Landing Page using Tailwind
+# Creating a Manage Landing Page using Tailwind
 ![alt text](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/zsudsuxylxq1bnhww45p.jpg)
 # Usage
 
