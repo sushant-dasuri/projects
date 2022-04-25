@@ -1,0 +1,15 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "tailwind-project",
+  "main": "index.js",
+  "scripts": {
+   "build": "tailwindcss -i ./main.css -o ./assets/css/app.css",
+   "watch": "tailwindcss -i ./main.css -o ./assets/css/app.css --watch"
+  },
+  "author": "MORE IND - SUSHANT",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
