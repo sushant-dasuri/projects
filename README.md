@@ -1,6 +1,16 @@
 # projects
 Tailwind Learning
 # Creating a Manage Landing Page using Tailwind
+
+### Requirements
+- [GIT](https://git-scm.com/)
+- [NodeJS](https://nodejs.org/en/) >= v14.16.1 
+
+### Technologies
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ![alt text](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/zsudsuxylxq1bnhww45p.jpg)
 # Usage
 
